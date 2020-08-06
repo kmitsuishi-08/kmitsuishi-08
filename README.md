@@ -1,5 +1,7 @@
 ### Olá Pessoal 👋
 
+## Deixando aqui algumas informações sobre mim 😁
+
 <br/>🔭Trabalho...
 <br/>Atualmente atuo em Back-End trabalhando com a linguagem de programação C#💜 (Mas tenho conhecimento em outras linguagens: Java🧡, Python💚...)
 <br/>
