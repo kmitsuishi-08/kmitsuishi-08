@@ -15,7 +15,8 @@
 <br/>
 <br/>💬Sobre mim...
 <br/>Gosto bastante de ficar por dentro das novidades em relação a tecnologia 💚
-<br/>👀 Curiosidade sou realmente muito fã do jogo 👑 Kingdom Hearts ❤️ hehe
+<br/>👀Curiosidade...
+<br/>Sou realmente muito fã do jogo 👑 Kingdom Hearts ❤️ hehe
 <br/>
 <br/>📫 Entre em contato comigo..
 <br/>
