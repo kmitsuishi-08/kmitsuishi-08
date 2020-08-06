@@ -17,5 +17,6 @@
 <br/> Gosto bastante de ficar por dentro das novidades em relação a tecnologia, e sou realmente muito fã do jogo Kingdom Hearts hehe
 <br/>
 <br/>📫 Entre em contato comigo..
-<br/>https://www.linkedin.com/in/kelly-naomi-mitsuishi-175997133/
-
+<br/>
+<br/> ✉️ [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kelly-naomi-mitsuishi-175997133/)](https://www.linkedin.com/in/kelly-naomi-mitsuishi-175997133/) 
+| 
