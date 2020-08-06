@@ -18,5 +18,5 @@
 <br/>
 <br/>📫 Entre em contato comigo..
 <br/>
-<br/> ✉️ [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kelly-naomi-mitsuishi-175997133/)](https://www.linkedin.com/in/kelly-naomi-mitsuishi-175997133/) 
+<br/> ✉️ [![Linkedin Badge](https://img.shields.io/badge/-KellyMitsuishi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kelly-naomi-mitsuishi-175997133/)](https://www.linkedin.com/in/kelly-naomi-mitsuishi-175997133/) 
 | 
