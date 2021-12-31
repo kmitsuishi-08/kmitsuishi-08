@@ -5,7 +5,7 @@
 #### 🔭Trabalho / Estudos
 Atualmente atuo em Back-End trabalhando com a linguagem de programação C# (Mas tenho conhecimento em outras linguagens: Java, Python, JavaScript...)
 <br/>
-Estou cursando Análise e Desenvolvimento de Sistemas na Faculdade de Informática e Administração Paulista (FIAP). Procuro estudar para as Certificações Microsoft para desenvolver mais como profissional na área de desenvolvimento como Full Stack.
+Estou cursando Análise e Desenvolvimento de Sistemas na Faculdade de Informática e Administração Paulista (FIAP).
 #### 💬Sobre mim
 Gosto bastante de ficar por dentro das novidades em relação a tecnologia, sempre estou buscando cursos, palestras, startups, etc...
 #### 📫 Entre em contato comigo..
